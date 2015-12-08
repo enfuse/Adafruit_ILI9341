@@ -1,5 +1,5 @@
 {
-    "name": "Adafruit_ILI9341_Photon",
+    "name": "Adafruit_ILI9341",
     "version": "0.9.5",
     "author": "Scott Piette <scott.piette@gmail.com>",
     "license": "MIT license, Written by Limor Fried/Ladyada for Adafruit Industries",
